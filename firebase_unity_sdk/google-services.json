@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1040909587683",
+    "project_id": "push-notifications-test-2023",
+    "storage_bucket": "push-notifications-test-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040909587683:android:885b0a63fbb83fb156e1d6",
+        "android_client_info": {
+          "package_name": "com.XtremelyDopedPunk.PushNotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040909587683-59mh1lsa5bamtap5ss1lpqulj0knulti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMfbpgiZzeVjyCFF_GQWOBHz7KYDERBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040909587683-59mh1lsa5bamtap5ss1lpqulj0knulti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1040909587683-nfr8pdqn2jkrs6babogbc55s20iu76io.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.XtremelyDopedPunk.PushNotifications"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
